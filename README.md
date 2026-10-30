@@ -1,45 +1,21 @@
-# Tyler's Learning PDF Library
+# Technical Learning Reference Library
 
-A curated collection of technical PDFs, study guides, and cybersecurity learning materials that support my hands-on training, certification prep, and long-term growth in IT and security.
+Personal study-reference collection supporting coursework and hands-on practice in IT support, Linux, networking, and cybersecurity.
 
-## About
+**This repository is a resource archive, not a portfolio of completed technical projects.** For practical work and documented exercises, see the [Cybersecurity & IT Lab Journal](https://github.com/tylerrivas405/Cybersecurity-Lab-Journal).
 
-This repository serves as my personal learning library, where I organize useful PDFs and reference material related to cybersecurity, IT support, networking, Linux, system administration, cloud concepts, and professional development. The goal is to keep valuable resources in one place so I can study more efficiently, revisit key topics, and document the material that supports my learning journey.
+## Topics
+- IT support and Windows troubleshooting
+- Networking and infrastructure
+- Linux and scripting
+- Defensive security and authorized penetration-testing labs
 
-## Purpose
+## Attribution and redistribution
+The presence of a PDF here does not imply its original author licensed redistribution. Before sharing or retaining any externally authored material publicly, verify permission and licensing. Where permission is unclear, prefer a link to the authorized publisher and retain any personal study copy outside a public repository. Credit alone is not a substitute for permission.
 
-This library helps me:
+No files have been removed in this documentation update; existing PDFs require a separate rights review.
 
-- Organize technical learning resources in one central location.
-- Support hands-on lab work and structured study sessions.
-- Build stronger foundational knowledge in cybersecurity and IT.
-- Maintain a reference archive for future review and skill development.
-- Track the types of material that contribute to my growth as a security professional.
+## How I use these resources
+I study references alongside hands-on labs and record my own commands, results, and technical reflections in separate project documentation.
 
-## Topics Covered
-
-Resources in this repository may include material related to:
-
-- Cybersecurity fundamentals
-- Penetration testing and ethical hacking
-- Network security
-- Linux and system administration
-- IT support and troubleshooting
-- Cloud and security concepts
-- Blue team and defensive security topics
-- Certification study material
-- Career development and technical reference guides
-
-## How I Use This Repo
-
-I use this repository as a study reference alongside labs, virtual machine practice, coursework, and certification preparation. Many of these resources support the practical work I document in my other GitHub repositories, including lab journals, hands-on exercises, and cybersecurity project work.
-
-## Notes
-
-- This repository is intended for educational and personal learning purposes.
-- Credit belongs to the original authors and publishers of any included materials.
-- Files are organized to make study and review easier over time.
-
-## Connect With Me
-
-Follow my learning journey and connect with me on [LinkedIn](https://www.linkedin.com/in/tyler-rivas-947304213/).
+[LinkedIn](https://www.linkedin.com/in/tyler-rivas-947304213/)
